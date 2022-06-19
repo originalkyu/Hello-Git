@@ -1,5 +1,0 @@
-new text
-
-
-complete text.
->>>>>>> version2
